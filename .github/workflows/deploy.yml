@@ -1,5 +1,5 @@
-/*
 name: Node.js CI
+
 
 on:
   push:
@@ -37,4 +37,4 @@ jobs:
 
     - name: Start application
       run: npm start
-      */
+  
